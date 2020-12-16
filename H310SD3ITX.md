@@ -9,9 +9,13 @@ CPU 8代或者9代都行，目前本人使用9100f，三码自行生成。IMac P
 
 可用功能
 声卡正常
+
 无核显的CPU电源管理正常（有核显需自行改SSDT）
+
 有线网卡正常
+
 USB定制后端口，如若需要前端口的需自行定制
+
 无核显的硬解正常
 
 
@@ -20,9 +24,17 @@ USB定制后端口，如若需要前端口的需自行定制
 
 
 bios设置
+
 CSM disable 需要先开启显卡UEFi引导（必要）
-安全引导关闭
-其他自行百度
+
+安全引导关闭（必要
+
+其他自行百度或者@黑果小兵，@xjn等大佬博客看看。
+
+鸣谢
+https://blog.daliansky.net/OpenCore-BootLoader.html#more
+
+https://blog.xjn819.com/?p=543
 
 
 
