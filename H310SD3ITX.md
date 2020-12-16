@@ -24,6 +24,7 @@ USB定制后端口，如若需要前端口的需自行定制
 
 
 不可用
+
 睡眠目前无解
 
 
@@ -36,6 +37,7 @@ CSM disable 需要先开启显卡UEFi引导（必要）
 其他自行百度或者@黑果小兵，@xjn等大佬博客看看。
 
 鸣谢
+
 https://blog.daliansky.net/OpenCore-BootLoader.html#more
 
 https://blog.xjn819.com/?p=543
